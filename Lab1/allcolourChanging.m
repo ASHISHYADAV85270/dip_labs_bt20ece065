@@ -1,6 +1,5 @@
 
 colorImage = imread('Plampi.png'); 
-
 redPixels = colorImage;
 greenPixels=colorImage;
 bluePixels=colorImage;
